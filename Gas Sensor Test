@@ -1,0 +1,12 @@
+#define GAS_PIN 34
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  int gas = analogRead(GAS_PIN);
+  Serial.print("Gas Value: ");
+  Serial.println(gas);
+  delay(1000);
+}
