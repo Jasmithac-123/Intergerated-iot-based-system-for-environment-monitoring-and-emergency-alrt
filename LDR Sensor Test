@@ -1,0 +1,13 @@
+#define LDR_PIN 27
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(LDR_PIN, INPUT);
+}
+
+void loop() {
+  int ldr = digitalRead(LDR_PIN);
+  Serial.print("LDR Value: ");
+  Serial.println(ldr);
+  delay(1000);
+}
