@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ec07d48-7f05-4ed2-bfe8-0bbec960e208" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ded80255-10d6-4818-8885-0623303e6427" /> 🌍 Integrated IoT-Based Environment Monitoring and Emergency Alert System
+ 🌍 Integrated IoT-Based Environment Monitoring and Emergency Alert System
 
  📌 Project Overview
 
@@ -27,6 +27,8 @@ Additionally, the system sends real-time data to the Blynk cloud and displays in
 * Relay Module (for fan control)
 * Buzzer
 * LED
+
+   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ec07d48-7f05-4ed2-bfe8-0bbec960e208" />>
 
 
 💻 Software & Libraries Used
@@ -123,4 +125,4 @@ Jasmitha C
 🔗 Repository Link
 https://github.com/Jasmithac-123/Intergerated-iot-based-system-for-environment-monitoring-and-emergency-alrt/tree/main
 
-https://github.com/username/repository-name
+
